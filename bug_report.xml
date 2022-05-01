@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <title>img is not loading on main page</title>
-    <priority>critical</priority>
+    <title>img is not loading on the main page</title>
+    <severity>critical</severity>
 </root>
